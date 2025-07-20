@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://68783ee131d28a460e1da728.mockapi.io/products';
+const API_URL = 'https://687d5ee3918b64224331aa45.mockapi.io/products';
 
 export const getProducts = () => axios.get(API_URL);
 export const getProductById = (id) => axios.get(`${API_URL}/${id}`);
