@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CamilaCol/proyectoReact/static/css/main.322440d6.css",
+    "main.js": "/CamilaCol/proyectoReact/static/js/main.c86bddc5.js",
+    "static/media/adedas.png": "/CamilaCol/proyectoReact/static/media/adedas.a36b04c4c3894d511fcf.png",
+    "index.html": "/CamilaCol/proyectoReact/index.html",
+    "main.322440d6.css.map": "/CamilaCol/proyectoReact/static/css/main.322440d6.css.map",
+    "main.c86bddc5.js.map": "/CamilaCol/proyectoReact/static/js/main.c86bddc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.322440d6.css",
+    "static/js/main.c86bddc5.js"
+  ]
+}
